@@ -1,0 +1,14 @@
+{
+  "name": "potato-translator-bot",
+  "version": "1.0.0",
+  "description": "入力された文章をカオスな「ぽていと構文」に変換するDiscord Bot",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
